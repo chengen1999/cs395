@@ -1,4 +1,4 @@
-# cs395 hw 1
+# CS395 hw 1 weside create
 Hi, this is introduction for hw1 webdesign
 I create thie webside , include 6 html and css file, use js for change color function
 there include my own introduction and my favorite animne introduction
