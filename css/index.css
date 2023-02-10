@@ -1,0 +1,30 @@
+body {
+  font-family: "Snell Roundhand"; /* this is fort of letter */
+  background-color: #f6e8e0; /* this is color for background */
+  text-align: center; /* this is location for title */
+  font-size: larger;/*title word size */
+  color: #e2a9b8/*title word color */
+  
+
+ 
+
+  
+}
+
+a{
+
+  color:#a4bee2;
+  background-color: #fac9b5;
+  font-size: larger;
+  padding: 10px;
+  border-radius: 10px 100px / 120px;
+  border-left-style: groove;
+  border-right-style: groove;
+  border-top-style: dotted;
+  border-bottom-style: dotted;
+  border: 3px solid #d3bedb;
+  
+  margin: 180px;
+  
+  
+}
