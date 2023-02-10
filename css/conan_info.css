@@ -1,0 +1,45 @@
+body {
+    font-family: "Snell Roundhand";
+    background-color: #f9ecd1;
+    text-align: center;
+    font-size: 140%;
+    color: #a8d9d0
+   
+}
+
+img {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+a {
+    
+    color: #e2a9b8;
+    background-color: #f6e8e0;
+    padding: 10px;
+    font-size: larger;
+    border-radius: 50% 20% / 10% 40%;
+    border-left-style: groove;
+    border-right-style: groove;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border: 5px solid #d3bedb;
+}
+
+table {
+  margin-left: auto; /* set table in center*/
+  margin-right: auto;
+  margin-bottom: 40px;
+  color: #48cb92;
+  font-size: 80%;
+  border:5px solid #e2a9b8;
+  
+
+  
+}
+
+td {
+  padding: 20px; /* table size*/
+  border: 5px solid;
+}
